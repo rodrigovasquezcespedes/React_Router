@@ -3,7 +3,7 @@ import Button from 'react-bootstrap/Button'
 const Buttons = () => {
   return (
     <div className='d-flex justify-content-center'>
-      <Button variant='danger'>Danger</Button>
+      <Button variant='danger'>Enviar</Button>
     </div>
   )
 }
